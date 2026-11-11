@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "*.css": "tailwindcss",
+    "intrin.h": "c",
+    "stdlib.h": "c"
+  }
+}
